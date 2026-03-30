@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋 I'm Nurassyl
 
-<!--
-**RendersC/RendersC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const me = {
+  role:     "Junior Fullstack Developer",
+  focus:    ["Frontend", "Backend", "Clean Code"],
+  status:   "Open to work 🟢",
+  learning: "always"
+}
+```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 👨‍💻 About me
+
+I'm a junior developer passionate about building full-stack web applications from scratch.  
+I care about clean, readable code and enjoy working across the whole product — from UI to database.  
+Currently looking for a team where I can grow and contribute from day one.
+
+---
+
+### 📬 Contacts
+
+💬 Telegram: [@sdpazdacha](https://t.me/sdpazdacha)  
+💼 Open to full-time & internship positions  
+🌍 Available remotely
