@@ -37,6 +37,6 @@ Currently looking for a team where I can grow and contribute from day one.
 
 ### 📬 Contacts
 
-💬 Telegram: [@sdpazdacha](https://t.me/sdpazdacha)  
+💬 Telegram: [@sdpazdacha](https://t.me/belyi_0071)  
 💼 Open to full-time & internship positions  
 🌍 Available remotely
